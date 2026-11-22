@@ -1,0 +1,32 @@
+{
+  "skill": "master-visual-learning",
+  "version": "1.0.0",
+  "language": "match_user",
+  "technical_terms": "preserve_official",
+  "audience": "infer_or_beginner",
+  "density": "adaptive",
+  "output": "adaptive",
+  "theme": "adaptive",
+  "pedagogy": "basic_visual_explanation",
+  "quiz_auto": false,
+  "feynman_auto": false,
+  "citations": "minimal_end_sources",
+  "generation_requires_approval": true,
+  "workflow_after_approval": "direct",
+  "animation": "purpose_driven_static_first",
+  "qa": "risk_based",
+  "revision": "incremental",
+  "pagination": "adaptive",
+  "fallback": "controlled",
+  "modules": [
+    "M01-content-intelligence",
+    "M02-learning-design",
+    "M03-visual-notes",
+    "M04-diagram-engine",
+    "M05-presentation-engine",
+    "M06-calculation-visualizer",
+    "M07-academic-verification",
+    "M08-visual-qa",
+    "M09-export-strategy"
+  ]
+}
